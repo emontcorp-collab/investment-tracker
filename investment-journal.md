@@ -1,7 +1,7 @@
 # Investment Journal
 
 base_currency: USD
-format_version: 11
+format_version: 1
 
 ## Transactions
 
