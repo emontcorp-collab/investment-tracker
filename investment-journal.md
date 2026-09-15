@@ -1,4 +1,4 @@
-# Investment Journal
+# Investment Journall
 
 base_currency: USD
 format_version: 1
